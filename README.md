@@ -3,3 +3,5 @@ NodeJS Blockchain implementation - Protecting the tea making ledger from unscrup
 
 This is a rough working example, contains a BrewNode, a BrewChain and an HTTP server
 
+Article: http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/
+
